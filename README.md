@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123pooja123&label=Profile%20views&color=0e75b6&style=flat" alt="123pooja123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=123pooja123" alt="123pooja123" /></a> </p>
-
 - 🔭 I’m currently working on [Finance](https://github.com/123pooja123/finance)
 
 - 🌱 I’m currently learning **react**
 
 - 👨‍💻 All of my projects are available at [github.in](github.in)
 
-- 💬 Ask me about **AI**
+- 💬 Ask me about **Artificial Intelligence**
 
 - 📫 How to reach me **poojakushwaha990455@gmail.com**
 
@@ -29,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=123pooja123&show_icons=true&locale=en&layout=compact" alt="123pooja123" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=123pooja123&show_icons=true&locale=en" alt="123pooja123" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=123pooja123&" alt="123pooja123" /></p>
